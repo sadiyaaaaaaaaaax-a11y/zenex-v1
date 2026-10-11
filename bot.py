@@ -26,7 +26,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, Con
 # This is the complete single-file bot. Replace the two placeholders below.
 # Never share this file after putting real credentials in it.
 CONFIG_BOT_TOKEN = "8000917877:AAHJUZPRe-bwfI655JH88GHoIFG4zCwHbZ4"
-CONFIG_ZENEX_API_KEY = "ZNX_GKNHYJSDP9YJXDMAP61AXY25"
+CONFIG_ZENEX_API_KEY = "ZNX_PJVG9XBZ6NBSLIAIK884NZ4I"
 CONFIG_ZENEX_BASE_URL = "https://api.zenexnetwork.com"
 CONFIG_ADMIN_ID = 1849126202
 CONFIG_OTP_GROUP_ID = -1003997282815
